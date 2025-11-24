@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "streaming-flow",
+      "description": "Diagram showing the flow of video streaming from content creator to end user.",
+      "imageUrl": "https://images.unsplash.com/photo-1576935429524-1df7fb127097?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzdHJlYW1pbmclMjB3b3JrZmxvd3xlbnwwfHx8fDE3NjM5MTI0MTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "streaming workflow"
+    },
+    {
+      "id": "gaming-network",
+      "description": "Diagram illustrating client-server architecture in online gaming.",
+      "imageUrl": "https://images.unsplash.com/photo-1619243142206-381c5aeda31c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjbGllbnQlMjBzZXJ2ZXJ8ZW58MHx8fHwxNzYzOTEyNDE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "client server"
+    },
+    {
+      "id": "music-backend",
+      "description": "Diagram of a music streaming backend architecture.",
+      "imageUrl": "https://images.unsplash.com/photo-1724388471774-58ef5277d40d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtdXNpYyUyMGJhY2tlbmR8ZW58MHx8fHwxNzYzOTEyNDEzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "music backend"
+    },
+    {
+      "id": "cloud-gaming",
+      "description": "Diagram of cloud gaming architecture.",
+      "imageUrl": "https://images.unsplash.com/photo-1638398827627-284082155e09?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjbG91ZCUyMGdhbWluZ3xlbnwwfHx8fDE3NjM5MTI0MTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cloud gaming"
+    },
+    {
+      "id": "content-id",
+      "description": "Diagram of YouTube's Content ID system.",
+      "imageUrl": "https://images.unsplash.com/photo-1593444285553-28163240e3f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb3B5cmlnaHQlMjBzeXN0ZW18ZW58MHx8fHwxNzYzOTEyNDEzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "copyright system"
+    },
+    {
+      "id": "ad-tech",
+      "description": "Diagram of ad serving technology.",
+      "imageUrl": "https://images.unsplash.com/photo-1709281847780-2b34c28853c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxhZHZlcnRpc2luZyUyMHRlY2hub2xvZ3l8ZW58MHx8fHwxNzYzOTEyNDEzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "advertising technology"
+    }
+  ]
+}
