@@ -1,0 +1,46 @@
+{
+  "placeholderImages": [
+    {
+      "id": "chrome-architecture",
+      "description": "Diagram of Google Chrome's multi-process architecture.",
+      "imageUrl": "https://images.unsplash.com/photo-1595843102703-96f6a6580cd1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxhcmNoaXRlY3R1cmUlMjBkaWFncmFtfGVufDB8fHx8MTc2Mzg3NzQ2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "architecture diagram"
+    },
+    {
+      "id": "firefox-architecture",
+      "description": "Diagram of Mozilla Firefox's multi-process architecture.",
+      "imageUrl": "https://images.unsplash.com/photo-1706535849689-59e888460d10?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxhcmNoaXRlY3R1cmUlMjBkaWFncmFtfGVufDB8fHx8MTc2Mzg3NzQ2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "architecture diagram"
+    },
+    {
+      "id": "safari-architecture",
+      "description": "Diagram of Apple Safari's WebKit2 architecture.",
+      "imageUrl": "https://images.unsplash.com/photo-1721244653657-ad6b91780492?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxhcmNoaXRlY3R1cmUlMjBkaWFncmFtfGVufDB8fHx8MTc2Mzg3NzQ2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "architecture diagram"
+    },
+    {
+      "id": "edge-architecture",
+      "description": "Diagram of Microsoft Edge's Chromium-based architecture.",
+      "imageUrl": "https://images.unsplash.com/photo-1712697236921-f02a449dd9e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8YXJjaGl0ZWN0dXJlJTIwZGlhZ3JhbXxlbnwwfHx8fDE3NjM4Nzc0NjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "architecture diagram"
+    },
+    {
+      "id": "opera-architecture",
+      "description": "Diagram of Opera's Chromium-based architecture.",
+      "imageUrl": "https://images.unsplash.com/photo-1721244653657-ad6b91780492?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxhcmNoaXRlY3R1cmUlMjBkaWFncmFtfGVufDB8fHx8MTc2Mzg3NzQ2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "architecture diagram"
+    },
+    {
+      "id": "brave-architecture",
+      "description": "Diagram of Brave's privacy-focused Chromium architecture.",
+      "imageUrl": "https://images.unsplash.com/photo-1595843102703-96f6a6580cd1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxhcmNoaXRlY3R1cmUlMjBkaWFncmFtfGVufDB8fHx8MTc2Mzg3NzQ2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "architecture diagram"
+    },
+    {
+      "id": "rendering-pipeline",
+      "description": "Flowchart of a modern browser's rendering pipeline.",
+      "imageUrl": "https://images.unsplash.com/photo-1698892289193-eb8b082ecce3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxmbG93Y2hhcnQlMjBkaWFncmFtfGVufDB8fHx8MTc2MzkxNDA3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "flowchart diagram"
+    }
+  ]
+}
